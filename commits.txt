@@ -1,0 +1,11 @@
+commit 22d0de72bedc91bdf4ec32d3a7a32715b5bbecc4
+Author: David Betancourt Montellano <davbetm@gmail.com>
+Date:   Sat Aug 4 14:09:51 2018 -0500
+
+    Lesson 2: Getting Documents
+
+commit 0ee0b4b41f563c8adb6c845fcc5bdb3cc9957056
+Author: David Betancourt Montellano <davbetm@gmail.com>
+Date:   Sat Aug 4 13:18:20 2018 -0500
+
+    Lesson 1: Settup up Firestore
